@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/main_image"
+        android:layout_width="280dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="8dp"
+        tools:background="@color/purple_700"
+        app:shapeAppearanceOverlay="@style/imageCorner"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/sub_image"
+        android:layout_width="60dp"
+        android:layout_height="90dp"
+        android:layout_margin="6dp"
+        android:elevation="6dp"
+        app:shapeAppearanceOverlay="@style/imageCorner"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="@id/main_image"
+        app:layout_constraintStart_toStartOf="@id/main_image"/>
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toEndOf="@id/sub_image"
+        app:layout_constraintTop_toTopOf="@id/sub_image"
+        app:layout_constraintBottom_toBottomOf="@id/sub_image"
+        android:textColor="@color/white"
+        android:layout_marginStart="8dp"
+        tools:text="@string/Falll"
+        android:textSize="14sp"/>
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#33000000"
+        app:layout_constraintStart_toEndOf="@id/sub_image"
+        app:layout_constraintEnd_toEndOf="@id/main_image"
+        app:layout_constraintTop_toBottomOf="@id/title"
+        app:layout_constraintBottom_toBottomOf="@id/main_image"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        android:textSize="9sp"
+        tools:text="@string/apple"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

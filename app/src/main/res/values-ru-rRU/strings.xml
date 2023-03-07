@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="popular">Популярный</string>
+    <string name="status">Статус</string>
+    <string name="revenue">Доход</string>
+    <string name="original_title">Оригинальное название</string>
+    <string name="overview">Обзор</string>
+    <string name="traiers">Прицепы</string>
+    <string name="top_billed_cast">Актерский состав с самым высоким рейтингом</string>
+    <string name="similar_movies">Похожие фильмы</string>
+    <string name="home">Домой</string>
+    <string name="all">Все</string>
+    <string name="search_movies">Поиск фильмов</string>
+    <string name="popularr">Популярный</string>
+    <string name="top_rated">Самый высокий рейтинг</string>
+    <string name="now_playing">Сейчас играю</string>
+    <string name="upcoming">Предстоящий</string>
+    <string name="Becky">Бекки</string>
+    <string name="Grace">Грейс Кэролайн Карри</string>
+    <string name="Movie">Название фильма</string>
+    <string name="Info">Информация</string>
+    <string name="Impossible">Невозможные вещи</string>
+    <string name="Drama">2021,MX,Семейный,Драма</string>
+    <string name="ES">исп.</string>
+    <string name="Released">Выпущенный</string>
+    <string name="Life_of_PI">Жизнь ПИ</string>
+    <string name="Believe_The_Unbelievable">Верьте в невероятное</string>
+    <string name="Spanning">Охватывающий</string>
+    <string name="Popular">Популярный</string>
+    <string name="Fall">Осень</string>
+    <string name="Popula">Популярный</string>
+    <string name="Harry_Potter">Гарри Поттер</string>
+    <string name="Thriller">2022,RU,Триллер</string>
+    <string name="Falll">Осень</string>
+    <string name="apple">яблоко</string>
+    <string name="click_to_search">Нажмите для поиска</string>
+    <string name="day_mode">Day mode</string>
+    <string name="night_mode">Night mode</string>
+    <string name="string_night_mode">\@string/night_mode</string>
+    <string name="mode_title" />
+</resources>

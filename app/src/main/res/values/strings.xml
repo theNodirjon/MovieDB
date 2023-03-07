@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="popular">Popular</string>
+    <string name="status">Status</string>
+    <string name="revenue">Revenue</string>
+    <string name="original_title">Original title</string>
+    <string name="overview">Overview</string>
+    <string name="traiers">Traiers</string>
+    <string name="top_billed_cast">Top Billed Cast</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="home">Home</string>
+    <string name="all">All</string>
+    <string name="search_movies">Search movies</string>
+    <string name="search_movi" translatable="false">Search movies</string>
+    <string name="popularr">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="Becky">Becky</string>
+    <string name="Grace">Grace Caroline Currey</string>
+    <string name="Movie">Movie Name</string>
+    <string name="Info">Info</string>
+    <string name="Impossible">Impossible Things</string>
+    <string name="Drama">2021,MX,Family,Drama</string>
+    <string name="ES">ES</string>
+    <string name="Released">Released</string>
+    <string name="Life_of_PI">Life of PI</string>
+    <string name="Believe_The_Unbelievable">Believe The Unbelievable</string>
+    <string name="Spanning">Spanning</string>
+    <string name="Popular">Popular</string>
+    <string name="Fall">Fall</string>
+    <string name="Popula">Popular</string>
+    <string name="Harry_Potter">Harry Potter</string>
+    <string name="Thriller">2022,EN,Thriller</string>
+    <string name="Falll">Fall</string>
+    <string name="apple">apple</string>
+    <string name="click_to_search">Click to search</string>
+    <string name="day_mode">Day mode</string>
+    <string name="night_mode">Night mode</string>
+    <string name="string_night_mode">\@string/night_mode</string>
+    <string name="mode_title" />
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+    <!-- Preference Titles -->
+    <!--    <string name="messages_header">Messages</string>-->
+    <!--    <string name="sync_header">Sync</string>-->
+
+    <!--    &lt;!&ndash; Messages Preferences &ndash;&gt;-->
+    <!--    <string name="signature_title">Your signature</string>-->
+    <!--    <string name="reply_title">Default reply action</string>-->
+
+    <!--    &lt;!&ndash; Sync Preferences &ndash;&gt;-->
+    <!--    <string name="sync_title">Sync email periodically</string>-->
+    <!--    <string name="attachment_title">Download incoming attachments</string>-->
+    <!--    <string name="attachment_summary_on">Automatically download attachments for incoming emails-->
+    <!--    </string>-->
+    <!--    <string name="attachment_summary_off">Only download attachments when manually requested</string>-->
+</resources>

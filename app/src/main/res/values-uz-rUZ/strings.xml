@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="popular">Mashhur</string>
+    <string name="status">Holati</string>
+    <string name="revenue">Daromad</string>
+    <string name="original_title">Asl sarlavha</string>
+    <string name="overview">Umumiy</string>
+    <string name="traiers">Treylerlar</string>
+    <string name="top_billed_cast">Yuqori Quyma Quyma</string>
+    <string name="similar_movies">Shunga Oxshash Filmlar</string>
+    <string name="home">Uy</string>
+    <string name="all">Hamma</string>
+    <string name="search_movies">Filmlarni Qidiring</string>
+    <string name="popularr">Mashhur</string>
+    <string name="top_rated">Yuqori Baholangan</string>
+    <string name="now_playing">Endi Oynamoqda</string>
+    <string name="upcoming">Kelgusi</string>
+    <string name="Becky">Bekki</string>
+    <string name="Grace">Grace Caroline Currey</string>
+    <string name="Movie">Film Nomi</string>
+    <string name="Info">Malumot</string>
+    <string name="Impossible">Imkonsiz Narsalar</string>
+    <string name="Drama">2021, MX, oila, Drama</string>
+    <string name="ES">Insho</string>
+    <string name="Released">Ozod qilindi</string>
+    <string name="Life_of_PI">PI hayoti</string>
+    <string name="Believe_The_Unbelievable">Aql Bovar Qilmaydiganlarga Ishoning</string>
+    <string name="Spanning">Spanning</string>
+    <string name="Popular">Mashhur</string>
+    <string name="Fall">Kuz</string>
+    <string name="Popula">Mashhur</string>
+    <string name="Harry_Potter">Garri Potter</string>
+    <string name="Thriller">2022,uz, Triller</string>
+    <string name="Falll">Kuz</string>
+    <string name="apple">olma</string>
+    <string name="click_to_search">Qidirish uchun bosing</string>
+    <string name="day_mode">Day mode</string>
+    <string name="night_mode">Night mode</string>
+    <string name="string_night_mode">\@string/night_mode</string>
+    <string name="mode_title" />
+</resources>
